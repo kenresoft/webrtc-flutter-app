@@ -33,17 +33,17 @@ android {
         targetCompatibility = JavaVersion.VERSION_1_8
     }
 
-/*    kotlinOptions {
+    kotlinOptions {
         jvmTarget = '1.8'
     }
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
-    }*/
+    }
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.kenresoft.astrology_app"
+        applicationId = "com.mamena.zomie_app"
         // You can update the following values to match your application needs.
         // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
         minSdk = 34 /*flutter.minSdkVersion*/
